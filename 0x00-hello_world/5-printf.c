@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print the phrase with proper grammar,
+ * main - Entry point
  *
  * Return: return 0;
  */
