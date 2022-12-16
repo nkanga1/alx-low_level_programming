@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_sign - print the sign of a num
- * @n: the num to be checked for
- * Returns 1 and print + if is greater than zero
+ * print_sign - print the sign of a number
+ * @n: the int to check
+ * Returns 1 and print + if n is greater than zero
  * 0 and print 0 if n is zero
  * -1 and print - if n is less than zero
  */
